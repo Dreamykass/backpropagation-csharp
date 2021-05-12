@@ -1,0 +1,4 @@
+http://neuroph.sourceforge.net/tutorials/ShuttleLandingControl/ShuttleLandingControl.htm
+http://neuroph.sourceforge.net/tutorials/ShuttleLandingControl/download/parametri.txt
+
+init 6 2 ...
